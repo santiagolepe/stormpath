@@ -20,6 +20,7 @@
     "authenticate"
   ],
   "author": "Octavio Santiago",
+  "email": "santiagolepe@gmail.com",
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/santiagolepe/stormpath/issues"
