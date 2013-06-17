@@ -8,7 +8,7 @@ npm install stormpath
 
 Examples
 
-1.- use te npm
+1.- use the npm
 	
 	var stormpath = require('stormpath');
 
